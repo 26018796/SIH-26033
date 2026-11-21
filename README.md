@@ -71,10 +71,10 @@ The development of FarmFly is supported by research into existing digital agricu
 
 Reference websites:
 
-National Agriculture Market (e-NAM)⁠
-Open Network for Digital Commerce⁠
-Ministry of Agriculture and Farmers Welfare⁠
-Directorate General of Civil Aviation⁠
-DigitalSky Platform⁠
-Food and Agriculture Organization⁠
-Press Information Bureau⁠
+National Agriculture Market (e-NAM),⁠
+Open Network for Digital Commerce,⁠
+Ministry of Agriculture and Farmers Welfare,⁠
+Directorate General of Civil Aviation,⁠
+DigitalSky Platform,⁠
+Food and Agriculture Organization,⁠
+Press Information Bureau⁠.

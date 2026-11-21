@@ -68,7 +68,9 @@ Environmental Benefits: FarmFly can help reduce unnecessary transportation throu
 Technological Benefits: The solution introduces AI-based buyer matching, GPS-based tracking, digital payments and smart route planning into agricultural marketing. Drone-assisted transportation provides an additional modern delivery option for suitable agricultural products.
 ## Research and References
 The development of FarmFly is supported by research into existing digital agricultural marketplaces, farmer welfare initiatives, drone technology, logistics and food supply chains. The National Agriculture Market (e-NAM) provides useful information about digital agricultural trading and connecting farmers with markets. The Open Network for Digital Commerce (ONDC) provides a reference for digital marketplace infrastructure. The Ministry of Agriculture and Farmers Welfare provides information about agricultural development and farmer welfare schemes. The Directorate General of Civil Aviation (DGCA) provides information about drone safety and applicable regulations in India. The Food and Agriculture Organization (FAO) provides research on agricultural supply chains, food security and post-harvest losses. Research into Farmer Producer Organizations also helps us understand collective marketing and how farmers can improve their bargaining power.
+
 Reference websites:
+
 National Agriculture Market (e-NAM)⁠
 Open Network for Digital Commerce⁠
 Ministry of Agriculture and Farmers Welfare⁠
